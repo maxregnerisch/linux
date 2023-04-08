@@ -26,3 +26,4 @@ jobs:
           files: |
             /home/runner/work/linux/*.deb
             /home/runner/work/linux/linux/*.deb
+            
